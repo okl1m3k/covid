@@ -1,2 +1,2 @@
 # covid
-Analysis of covid data from 
+Analysis of covid/coronavirus pandemic data
